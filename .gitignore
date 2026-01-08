@@ -1,4 +1,0 @@
-node_modules
-.env
-playwright/.cache
-debug.html
